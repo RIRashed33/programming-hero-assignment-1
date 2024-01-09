@@ -79,7 +79,7 @@ img {
     margin: 60px  0 120px;
 }
 .header-content {
-    background-image: url('../img/main-banner-img.png');
+    background-image: url('./img/main-banner-img.png');
     background-repeat: no-repeat;
     background-size: auto;
     height: 600px;
@@ -127,7 +127,7 @@ img {
     display: -ms-flexbox;
     display: flex;
     position: relative;
-    background-image: url(../img/red-background.png);
+    background-image: url(./img/red-background.png);
     background-repeat: no-repeat;
     background-position: bottom left;
     margin-top: 60px;
@@ -200,7 +200,7 @@ img {
     margin-bottom: 48px;
 }
 .midnight-bg-img {
-    background-image: url('../img/styling-2024.png'), url('../img/vectory-image.png');
+    background-image: url('./img/styling-2024.png'), url('./img/vectory-image.png');
     background-position: right 154px bottom 72px, left top;
 }
 .midnight-section .inner-content {
